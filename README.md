@@ -1,4 +1,5 @@
 # 🎊 EmotiPop
+### 감정 일기장 앱 서비스 EmotiPop 프로젝트
 ## Logo
 <img src="https://user-images.githubusercontent.com/73332608/144999214-54e4f52f-d861-41b3-bf65-508dbaf3fa5c.png" width="180" height="140">
 
